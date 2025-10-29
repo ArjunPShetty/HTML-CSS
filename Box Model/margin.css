@@ -1,0 +1,19 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aquamarine;
+    border: 25px;
+    border-style: dashed;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-right: 25px;
+}
+h1{
+        height:100px;
+    width:100px;
+    margin: 25px 26px 27px 28px ;
+
+
+}
+/* it is designed to add space outside the border */

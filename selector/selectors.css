@@ -1,0 +1,22 @@
+*{
+    color: blue;
+}/* it is universal selector using this in css will work complet html code */
+
+*{
+    color: blue;
+}
+
+/* it is a normal way of creteating css using Elememt selector */
+h2{
+    color: red ;
+}
+
+/* create id in html file and call in css using id selector  */
+#first{
+    color: pink;
+}
+
+/* create a class in css adn call in html using  class selector */
+.class{
+    color:cyan;
+}

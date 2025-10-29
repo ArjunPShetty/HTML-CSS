@@ -1,0 +1,50 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(111, 0, 255);
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    position: static;
+}
+
+#box2{
+    position: relative;
+    top:20px;
+    bottom: 20px;
+    left: 20px;
+}
+#box3{
+    position:absolute;
+    top: 500px;
+    left: 50px;
+}
+#box4{
+    position: fixed;
+    top: 0;
+    bottom: 10px;
+}
+#box5{
+    position: sticky;
+    top: 0;
+    left: 500px;
+}
+#box6{
+    position:absolute;
+    top: -10px;
+    left: 50px;
+    z-index: 1;
+}
+#box7{
+    position: absolute;
+    top: 0;
+    bottom: 10px;
+}
+#box8{
+    position: absolute;
+    top: 0;
+    left: 700px;
+    z-index: -3;
+}

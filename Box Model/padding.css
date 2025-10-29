@@ -1,0 +1,17 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aquamarine;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+}
+h1{
+        height:100px;
+    width:100px;
+    background-color: aquamarine;
+    padding:25px 26px 27px 28px;
+
+}
+/* it is designed to add space inside the border */

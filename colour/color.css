@@ -1,0 +1,16 @@
+    /*use color picker in google  */
+    /*use color palettes in google, go to "coolors" wed site  */
+
+h1{
+    color: red;
+}
+p{
+    color: aquamarine;
+}
+button{
+    color: rgb(191,135,63); /* rgb colour*/
+     background-color: aqua;
+}
+body{
+    background-color: #00ff00; /* hex colour*/
+} 
